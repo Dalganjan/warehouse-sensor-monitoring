@@ -20,7 +20,7 @@ echo "sensor_id=TEMP-02; value=20.0" | nc -u localhost 3344
 You should see WARN log lines in the console for any reading that exceeds the thresholds (35°C for temperature, 50% for humidity).
 ```
 
-Screenshot of Sample executed results are added under result dir. Please check.
+Screenshot of Sample executed results are added under results dir. Please check.
 
 Thanks,
 Dalganjan Sengar
